@@ -1,0 +1,19 @@
+# Conda environment
+env/
+venv/
+.env/
+conda-env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+
+
+# OS
+.DS_Store
+Thumbs.db
